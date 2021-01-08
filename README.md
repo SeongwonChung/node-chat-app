@@ -2,6 +2,9 @@
 
 chat-app made with NodeJS
 
+## Link
+https://sw-node-chat-app.herokuapp.com/
+
 ## Stacks
 >
 * Express
